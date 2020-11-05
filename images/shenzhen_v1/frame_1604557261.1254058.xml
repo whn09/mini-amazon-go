@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder/>
+	<filename>frame_1604557261.1254058.jpg</filename>
+	<path/>
+	<source/>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	
+<object>
+	<name>cocacola</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<bndbox>
+		<xmin>56</xmin>
+		<ymin>169</ymin>
+		<xmax>190</xmax>
+		<ymax>307</ymax>
+	</bndbox>
+</object>
+
+
+<object>
+	<name>noodles</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<bndbox>
+		<xmin>472</xmin>
+		<ymin>9</ymin>
+		<xmax>640</xmax>
+		<ymax>237</ymax>
+	</bndbox>
+</object>
+
+
+<object>
+	<name>noodles</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<bndbox>
+		<xmin>323</xmin>
+		<ymin>245</ymin>
+		<xmax>541</xmax>
+		<ymax>461</ymax>
+	</bndbox>
+</object>
+
+
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder/>
+	<filename>frame_1604547875.9402676.jpg</filename>
+	<path/>
+	<source/>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	
+<object>
+	<name>hand</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<bndbox>
+		<xmin>240</xmin>
+		<ymin>1</ymin>
+		<xmax>459</xmax>
+		<ymax>403</ymax>
+	</bndbox>
+</object>
+
+
+</annotation>

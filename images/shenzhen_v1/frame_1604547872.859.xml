@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder/>
+	<filename>frame_1604547872.859.jpg</filename>
+	<path/>
+	<source/>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	
+<object>
+	<name>cocacola</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<bndbox>
+		<xmin>312</xmin>
+		<ymin>246</ymin>
+		<xmax>442</xmax>
+		<ymax>382</ymax>
+	</bndbox>
+</object>
+
+
+</annotation>

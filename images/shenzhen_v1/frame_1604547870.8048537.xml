@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder/>
+	<filename>frame_1604547870.8048537.jpg</filename>
+	<path/>
+	<source/>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	
+<object>
+	<name>hand</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<bndbox>
+		<xmin>105</xmin>
+		<ymin>1</ymin>
+		<xmax>376</xmax>
+		<ymax>429</ymax>
+	</bndbox>
+</object>
+
+
+<object>
+	<name>cocacola</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<bndbox>
+		<xmin>318</xmin>
+		<ymin>249</ymin>
+		<xmax>442</xmax>
+		<ymax>381</ymax>
+	</bndbox>
+</object>
+
+
+</annotation>

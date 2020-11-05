@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder/>
+	<filename>frame_1604547888.275054.jpg</filename>
+	<path/>
+	<source/>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	
+<object>
+	<name>hand</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<bndbox>
+		<xmin>94</xmin>
+		<ymin>1</ymin>
+		<xmax>330</xmax>
+		<ymax>149</ymax>
+	</bndbox>
+</object>
+
+
+<object>
+	<name>noodles</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<bndbox>
+		<xmin>98</xmin>
+		<ymin>174</ymin>
+		<xmax>318</xmax>
+		<ymax>400</ymax>
+	</bndbox>
+</object>
+
+
+<object>
+	<name>noodles</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<bndbox>
+		<xmin>325</xmin>
+		<ymin>186</ymin>
+		<xmax>548</xmax>
+		<ymax>406</ymax>
+	</bndbox>
+</object>
+
+
+</annotation>
